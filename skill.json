@@ -1,0 +1,19 @@
+{
+  "name": "genpark-extended-kalman-filter-robot-localization-skill",
+  "version": "1.0.0",
+  "description": "Extended Kalman Filter (EKF) for non-linear mobile robot pose estimation and landmark sensor fusion",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "ekf",
+    "kalman-filter",
+    "robot-localization",
+    "sensor-fusion",
+    "state-estimation",
+    "non-linear-filtering",
+    "python-standard-library",
+    "agent-skills",
+    "odometry-fusion",
+    "slam-primitives"
+  ]
+}
