@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-extended-kalman-filter-robot-localization-skill"
+version = "1.0.0"
+description = "Extended Kalman Filter (EKF) for non-linear mobile robot pose estimation and landmark sensor fusion"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
